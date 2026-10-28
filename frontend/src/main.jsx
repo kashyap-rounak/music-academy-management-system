@@ -1,3 +1,4 @@
+// Starts the react application and renders the main components.
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 // import './index.css'import './index.css'
